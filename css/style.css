@@ -8815,6 +8815,7 @@ header .gnb {
   }
   .portpolio .listarea .r_imgarea {
     width: 100%;
+    height: auto;
   }
 }
 
@@ -9352,4 +9353,3 @@ footer .license ul li p {
 .security .r_imgarea a:hover .view {
   display: none !important;
 }
-
